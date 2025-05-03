@@ -1,0 +1,6 @@
+<library path="point_painter">
+  <class name="point_painter/PointPainter"
+         type="point_painter::PointPainter"
+         base_class_type="rviz_common::Display">
+  </class>
+</library>
